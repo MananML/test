@@ -1,4 +1,4 @@
-import random
+import ra
 import time
 
 GUESS= 0
